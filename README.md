@@ -1,0 +1,2 @@
+# Diagrama-escolar
+primeiro diagrama
